@@ -1,12 +1,12 @@
 # JWT
 
-<h1>Create User  </h1> <br/>
+<h2>Create User  </h2> <br/>
 
-Type: Post - Route: /singin <br/>
+<p Type: <strong> Post </strong> - Route:<strong> /singin </strong> >
 
 dataType = {
-	"name" : String
-	"email"  :   String
-	"password" : String
+	<strong> "name" </strong> : String
+	<strong> "email" </strong>  :   String
+	<strong> "password"  </strong> : String
 }
 <br/>
