@@ -1,11 +1,12 @@
 # JWT
 
-#Create User \
+##Create User <br/>
 
-Url = localhost:3000/singin \
+* Url - localhost:3000/singin 
 
-data = {
+* dataType = {
 	"name" : String
 	"email"  :   String
 	"password" : String
 }
+<br/>
