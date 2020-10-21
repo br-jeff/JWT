@@ -1,0 +1,22 @@
+{
+  "name": "jwt",
+  "version": "1.0.0",
+  "description": "jwt",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalavh/JWT.git"
+  },
+  "keywords": [
+    "jwt"
+  ],
+  "author": "Kalavh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalavh/JWT/issues"
+  },
+  "homepage": "https://github.com/kalavh/JWT#readme"
+}
