@@ -1,8 +1,10 @@
 # JWT
 
-<h2>Create User  </h2> <br/>
+This project it`s for  test JWT
 
-<p Type: <strong> Post </strong> - Route:<strong> /singin </strong> >
+<h3>Create User  </h3> <br/>
+
+ Type: <strong> Post </strong> - Route:<strong> /singin </strong>   <br/>
 
 dataType = {
 	<strong> "name" </strong> : String
