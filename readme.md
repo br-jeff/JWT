@@ -2,9 +2,9 @@
 
 ##Create User <br/>
 
-* Url - localhost:3000/singin 
+*Type: Post - Route: /singin 
 
-* dataType = {
+*dataType = {
 	"name" : String
 	"email"  :   String
 	"password" : String
