@@ -1,6 +1,7 @@
+ const createUser = (req, res) => {
+     const {email,name,password } = req.body
 
- const createUser = (req: Request, res : Response ) => {
-     res.send('hello') 
+     res.send(`${email}${name}${password}`) 
     } 
 
  module.exports =  {createUser}
