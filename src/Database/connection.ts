@@ -1,5 +1,6 @@
-const knex = require('knex')
 const path = require('path')
+const knex = require('knex')
+
 
 const db = knex({
     client: 'sqlite3',
