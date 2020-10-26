@@ -1,7 +1,7 @@
 const router = require('express').Router()
-const {createUser} = require('../controllers/user')
+const user = require('../controllers/user')
 
 
-router.post('/singin',createUser )
+router.post('/singin',user.create )
  
 module.exports = router
